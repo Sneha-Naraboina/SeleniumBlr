@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>The first page</title>
+<title>The first page in the web</title>
 </head>
 <html>
